@@ -8,6 +8,7 @@ def main():
     c = 3
     y = 25
     print(alfabet[x], alfabet[c], alfabet[y])
+
     for k in alfabet:
         x += 1
         c += 1
